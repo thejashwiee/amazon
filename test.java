@@ -1,4 +1,4 @@
-class
-{
-	system.out.println("hello world")
-}
+ class
+ {
+ system.out.println("hello world")
+ }
