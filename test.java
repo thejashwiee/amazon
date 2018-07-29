@@ -1,4 +1,4 @@
- class
+ class main()
  {
  system.out.println("hello world")
  system.out.println("i'm tejaswi")	 
