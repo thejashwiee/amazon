@@ -1,4 +1,4 @@
- class main()
+ class main(string args())
  {
  system.out.println("hello world")
  system.out.println("i'm tejaswi")	 
