@@ -7,14 +7,6 @@
 <url>http://maven.apache.org</url>
 <build>
 	<finalName>amazon.war</finalName>
-	<plugins>
-<plugin>
-<groupId>org.apache.maven.plugins</groupId>
-<artifactId>maven-site-plugin</artifactId>
-<version>3.7.1</version>
-<scope>test</scope>
-</plugin>
-</plugins>
 </build>
 <dependencies>
 <dependency>
